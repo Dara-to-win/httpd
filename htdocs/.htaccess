@@ -1,0 +1,4 @@
+allow from 192.168.122.0/24
+allow from 127.0.0.1/32
+deny from 127.0.0.1/32
+deny from 127.0.0.12/32
